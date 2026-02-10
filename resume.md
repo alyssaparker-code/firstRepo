@@ -1,6 +1,6 @@
 # **Alyssa Parker**
 
-![A headshot of myself](Pic of Me.jpg)
+![A headshot of myself](PicOfMe.jpg)
 
 ## **Education**
 
