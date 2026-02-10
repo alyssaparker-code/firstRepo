@@ -1,6 +1,6 @@
 # **Alyssa Parker**
 
-![text]("C:\Users\potat\Downloads\Pic of Me.jpg")
+![A headshot of myself](Pic of Me.jpg)
 
 ## **Education**
 
